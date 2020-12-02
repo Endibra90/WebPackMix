@@ -1,11 +1,7 @@
 {
     "/dist-mix/manifest.js": "/dist-mix/manifest.js",
-    "/dist-mix/manifest.js.map": "/dist-mix/manifest.js.map",
     "/dist-mix/script.js": "/dist-mix/script.js",
     "/dist-mix/input.css": "/dist-mix/input.css",
-    "/dist-mix/script.js.map": "/dist-mix/script.js.map",
-    "/dist-mix/input.css.map": "/dist-mix/input.css.map",
     "/dist-mix/vendor.js": "/dist-mix/vendor.js",
-    "/dist-mix/vendor.js.map": "/dist-mix/vendor.js.map",
     "/dist-mix/index.html": "/dist-mix/index.html"
 }
